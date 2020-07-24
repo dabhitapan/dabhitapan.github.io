@@ -23,7 +23,7 @@ const socialMediaLinks = {
 	github: "https://github.com/dabhitapan",
 	linkedin: "https://linkedin.com/in/tapan-dabhi",
 	gmail: "tapandabhi99@gmail.com",
-	gitlab: "https://gitlab.com/ashutoshhathidara98",
+	gitlab: "https://gitlab.com/dabhitapan",
 	facebook: "https://www.facebook.com/tapan.dabhi.7/",
 	twitter: "https://twitter.com/dabhitapan",
 	instagram: "https://www.instagram.com/wo_log_im_tony/"
@@ -369,50 +369,7 @@ const skills = {
 
 
 // Education Page
-const competitiveSites = {
-  competitiveSites: [
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866"
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother"
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638"
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919"
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB"
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother"
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754"
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391"
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF"
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother"
-    }
-  ]
-}
+
 
 const degrees = {
   degrees : [
@@ -701,13 +658,6 @@ const contactPageData = {
 		description:
 			"I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React-Native, Android, Web Development.",
 	},
-	blogSection: {
-		title: "Blogs",
-		subtitle:
-			"For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-		link: "https://ashutoshhathidara.wordpress.com",
-		avatar_image_path: "blogs_image.svg",
-	},
 	addressSection: {
 		title: "Address",
 		subtitle:
@@ -726,7 +676,6 @@ export {
 	greeting,
 	socialMediaLinks,
 	skills,
-	competitiveSites,
 	degrees,
 	certifications,
 	experience,
